@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello, my name is Paulo Emílio 
 
-<!--
-**paulo-emilio/paulo-emilio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+Here's a bit about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently seeking opportunities in the field of Data Science.
+- 🌱 Pursuing a [postgraduate](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science/blob/main/About/PDC_Pos-graduacao-em-Data-Science.pdf) degree in Data Science, and also learning through [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337).
+- 🎓 Bachelor's degree in Information Systems.
+- 👯 Open to collaborations on projects related to Data Science and technology.
+- 😄 Pronouns: He/Him
+- ⚡ Passionate about games, geek and nerd culture.
+
+
+### 🔭 Statistics about my profile in the last year!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-emilio&theme=tokyonight&show_icons=true&border_radius=10&count_private=true&hide_border=true&include_all_commits=true)
+
+
+### 🔭 Most used languages
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-emilio&hide=yacc,makefile,cuda&theme=tokyonight&layout=compact&langs_count=10&border_radius=10&hide_border=true)
+
+<hr>
+
+### ✨ Contact me ✨
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/paulo-emilio/)
+[<img alt="Instagram" src="https://img.shields.io/badge/pauloemilio%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/pauloemilio__/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pauloemilio.sistemas@gmail.com)
