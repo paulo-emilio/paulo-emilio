@@ -1,13 +1,13 @@
-# Hello, my name is Paulo Emílio 
+# Hello, my name is Paulo Emílio 🤓
 
 ## Welcome to my GitHub profile! 🚀
 
 Here's a bit about me:
 
-- 🔭 Currently seeking opportunities in the field of Data Science.
-- 🌱 Pursuing a [postgraduate](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science/blob/main/About/PDC_Pos-graduacao-em-Data-Science.pdf) degree in Data Science, and also learning through [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337).
+- 🔭  Data Science enthusiast seeking opportunities.
+- 🌱 [Postgraduate](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science/blob/main/About/PDC_Pos-graduacao-em-Data-Science.pdf) student in Data Science, and also studying through [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337).
 - 🎓 Bachelor's degree in Information Systems.
-- 👯 Open to collaborations on projects related to Data Science and technology.
+- 👯 Open to collaborations in Data Science and tech.
 - 😄 Pronouns: He/Him
 - ⚡ Passionate about games, geek and nerd culture.
 
