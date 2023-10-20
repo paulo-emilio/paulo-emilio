@@ -12,8 +12,8 @@
 
 ### Explore my Work 🚀
 
-- 🌐 **Portfolio**: [VitrineDev](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
-- 📄 **Resume**: [Paulo Emílio Oliveira](https://www.canva.com/design/DAFk49InRIQ/ypLZs0Ml1U3FAs_Iz5dlKw/view?utm_content=DAFk49InRIQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+- 🌐 Portfolio: [VitrineDev](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
+- 📄 Resume: [Paulo Emílio](https://www.canva.com/design/DAFk49InRIQ/ypLZs0Ml1U3FAs_Iz5dlKw/view?utm_content=DAFk49InRIQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
 <hr>
 
 ### GitHub Stats 🔭 
