@@ -5,9 +5,9 @@
 Here's a bit about me:
 
 - 🔭  Data Science enthusiast seeking opportunities.
-- 🌱 [Postgraduate](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science/blob/main/About/PDC_Pos-graduacao-em-Data-Science.pdf) student in Data Science, and also studying through [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337).
-- 🎓 Bachelor's degree in Information Systems.
-- 👯 Open to collaborations in Data Science and tech.
+- 🌱 [Postgraduate](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science/blob/main/About/PDC_Pos-graduacao-em-Data-Science.pdf) student in Data Science.
+- 📚 Student at the programming school [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337).
+- 🎓 Bachelor's in Information Systems.
 - 😄 Pronouns: He/Him
 - ⚡ Passionate about games, geek and nerd culture.
 
