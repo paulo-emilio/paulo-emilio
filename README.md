@@ -1,21 +1,27 @@
-# Hello, my name is Paulo Emílio 🤓
+<h1>Hello, I'm Paulo Emílio. <br>
+  Welcome to my GitHub profile! 🤓</h1>
+<hr>
 
-## Welcome to my GitHub profile! 🚀
-
-Here's a bit about me:
+### Here's a bit about me:
 
 - 🔭  Data Science enthusiast seeking opportunities.
 - 🌱 [Postgraduate](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science/blob/main/About/PDC_Pos-graduacao-em-Data-Science.pdf) student in Data Science.
 - 📚 Student at the programming school [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337).
 - 🎓 Bachelor's in Information Systems.
 - ⚡ Passionate about games, geek and nerd culture.
+<hr>
 
+### Explore my Work
 
-### 🔭 Statistics about my profile in the last year!
+- 🌐 **Portfolio**: [VitrineDev](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
+- 📄 **Resume**: [Paulo Emílio Oliveira](https://www.canva.com/design/DAFk49InRIQ/ypLZs0Ml1U3FAs_Iz5dlKw/view?utm_content=DAFk49InRIQ&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+<hr>
+
+### GitHub Stats 🔭 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-emilio&theme=tokyonight&show_icons=true&border_radius=10&count_private=true&hide_border=true&include_all_commits=true)
 
 
-### 🔭 Most used languages
+### Most used languages 🔭 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-emilio&hide=yacc,makefile,cuda&theme=tokyonight&layout=compact&langs_count=10&border_radius=10&hide_border=true)
 
 <hr>
