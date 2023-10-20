@@ -1,6 +1,5 @@
 <h1>Hello, I'm Paulo Emílio. <br>
   Welcome to my GitHub profile! 🤓</h1>
-<hr>
 
 ### Here's a bit about me:
 
