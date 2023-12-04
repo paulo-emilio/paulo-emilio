@@ -4,7 +4,7 @@
 ### Here's a bit about me:
 
 - 🔭  Data Science enthusiast seeking opportunities.
-- 🌱 [Postgraduate](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science/blob/main/About/PDC_Pos-graduacao-em-Data-Science.pdf) student in Data Science.
+- 🌱 [Postgraduate](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science/tree/main) student in Data Science.
 - 🎓 Bachelor's in Information Systems.
 - 📚 Student at the programming school [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337).
 - ⚡ Passionate about games, geek and nerd culture.
