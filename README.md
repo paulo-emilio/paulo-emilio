@@ -7,13 +7,17 @@
 - 💹 Postgraduate in Data Science
 - 🎓 Bachelor's degree in Information Systems
 - 💻 3 years of experience in IT, with an interest in transitioning to the data field
-- 📚 Student at the programming school [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337).
+- 📚 Student at the programming school [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337)
+.
 <hr>
 
 ### Explore my Work 🚀
 
 - 🌐 Portfolio: [VitrineDev](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
-- 📄 Resume: [Paulo Emílio](https://drive.google.com/file/d/1jrnkAIY_o_cPZ_xZsfqoTz1K1q-vuKaQ/view)
+- 📄 Resume: [Paulo Emílio Oliveira](https://drive.google.com/file/d/1jrnkAIY_o_cPZ_xZsfqoTz1K1q-vuKaQ/view)
+- 📂 Diverse Academic Projects: [Projetos-Diversificados](https://github.com/paulo-emilio/Projetos-Academicos-Diversificados)
+- 📊 Academic Data Science Projects: [Projetos-Data-Science](https://github.com/paulo-emilio/Projetos-Academicos-Data-Science)
+
 <hr>
 
 ### GitHub Stats 🔭 
