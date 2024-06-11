@@ -17,11 +17,11 @@
 <hr>
 
 ### GitHub Stats 🔭 
-![paulo-emilio's Stats](https://github-readme-stats.vercel.app/api?username=paulo-emilio&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![paulo-emilio's Stats](https://github-readme-stats.vercel.app/api?username=paulo-emilio&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 
-![paulo-emilio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulo-emilio&theme=merko&hide_border=true)
+![paulo-emilio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulo-emilio&theme=chartreuse-dark&hide_border=true)
 
-![paulo-emilio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-emilio&theme=merko&show_icons=true&hide_border=true&layout=compact)
+![paulo-emilio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-emilio&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 <hr>
 
