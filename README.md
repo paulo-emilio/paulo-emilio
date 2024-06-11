@@ -17,11 +17,11 @@
 <hr>
 
 ### GitHub Stats 🔭 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo-emilio&theme=tokyonight&show_icons=true&border_radius=10&count_private=true&hide_border=true&include_all_commits=true)
+![paulo-emilio's Stats](https://github-readme-stats.vercel.app/api?username=paulo-emilio&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
+![paulo-emilio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulo-emilio&theme=merko&hide_border=true)
 
-### Most used languages 🔭 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-emilio&hide=yacc,makefile,cuda&theme=tokyonight&layout=compact&langs_count=10&border_radius=10&hide_border=true)
+![paulo-emilio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-emilio&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 <hr>
 
