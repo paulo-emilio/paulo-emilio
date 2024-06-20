@@ -6,7 +6,7 @@
 - 💹 Pós-graduado em [Ciência de Dados](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science)
 - 🎓 Graduado em Sistemas de Informação
 - 📚 Aluno na escola de programação [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337)
-- 💻 6 anos no mercado de trabalho, sendo 4 deles na área da TI
+- 💻 5 anos no mercado de trabalho, sendo 3 deles na área da TI
 
 ## Hard Skills:
 - Análise de Dados
