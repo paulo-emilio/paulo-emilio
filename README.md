@@ -37,8 +37,6 @@
 - 💹 Machine Learning: [House-Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning)
 - 🎲 Análise de dados com SQL: [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
 - 📈 Excel e Google Sheets: [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
-- 📜 Análise Descritiva IBGE: [IBGE-eda](https://github.com/paulo-emilio/IBGE-eda)
-- 🧮 Modelagem Estatística: [PNAD-stat-modeling](https://github.com/paulo-emilio/PNAD-stat-modeling)
 - 📂 Projetos Acadêmicos Diversificados: [Projetos-Diversificados](https://github.com/paulo-emilio/Projetos-Academicos-Diversificados)
  
 
