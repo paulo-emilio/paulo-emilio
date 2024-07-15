@@ -2,15 +2,11 @@
 
 ## Sobre mim
 
-🔭 Buscando oportunidades para ingressar na área de Análise e Ciência de Dados
-
-💹 Pós-graduado em [Ciência de Dados](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science)
-
-🎓 Graduado em Sistemas de Informação
-
-📚 Aluno na escola de programação [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337)
-
-💻 5 anos no mercado de trabalho, sendo 3 deles na área da TI
+- 🔭 Buscando oportunidades para ingressar na área de Análise e Ciência de Dados
+- 💹 Pós-graduado em [Ciência de Dados](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science)
+- 🎓 Graduado em Sistemas de Informação
+- 📚 Aluno na escola de programação [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337)
+- 💻 5 anos no mercado de trabalho, sendo 3 deles na área da TI
 
 ## Hard Skills 
 - Análise de Dados
@@ -30,41 +26,39 @@
 - Inovação
 
 
-## Portfólios: 
+## Portfólios
 
-🌐 Cursos: [VitrineDev Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
+- 🌐 Cursos: *[VitrineDev Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)*
+- 📄 Currículo: *[Google Drive](https://drive.google.com/file/d/1euJtzX6BuXnvAummmRNvwzNikdGsWCDe/view?usp=sharing)*
 
-📄 Currículo: [Google Drive](https://drive.google.com/file/d/1euJtzX6BuXnvAummmRNvwzNikdGsWCDe/view?usp=sharing)
 
+## Projetos de Análise de Dados
 
-## Guia de Projetos
+### 📊 [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
+  - *[People Analytics](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics)*  análise de movimentações e desligamentos
+  - *[Super Pets](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets)*  análise das vendas de uma loja
+  - *[Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro)*  análise de assinaturas de um site
+  - *[E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce)*  análise de compras feitas em e-commerces no Brasil
+  - *[DataMinds](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Data-Minds)*  análise de vendas
 
-### 📊 Análise de dados com Power BI:
+&nbsp;
 
-- [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
-  
-  - **People Analytics:** Análise de movimentações e desligamentos.
-  - **Super Pets:** Análise das vendas de uma loja.
-  - **Clube do Livro:** Análise de assinaturas no site.
-  - **E-commerce:** Análise de compras feitas em e-commerces no Brasil.
-  - **DataMinds:** Análise das vendas.
+### 🎲 [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
 
-### 🎲 Análise de dados com SQL:
+  - *[Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks)* análise de fatores que influenciam os preços
 
-- [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
+&nbsp;
 
-  - **Vendas de notebooks:** Análise de fatores que influenciam os preços.
+### 📈 [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
 
-### 📈 Excel e Google Sheets:
+  - *[Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects)* análise dos dados de logística.
 
-- [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
+&nbsp;
 
-  - **Controle de Rotas:** Análise dos dados de logística.
+### 💹 [Python]()
 
-### 💹 Análise de Dados com Python:
-
-- [House-Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning): Análise exploratória e regressão linear para prever preços de imóveis.
-- [Lichess-Matches](https://github.com/paulo-emilio/Lichess-Matches): Análise de dados de partidas de Xadrez.
+  - *[House Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning)* análise exploratória e regressão linear para prever preços de imóveis.
+  - *[Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches)* análise de dados de partidas de Xadrez.
 
 
 ## Entre em contato comigo 💻
@@ -73,7 +67,6 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/pauloemilio%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/pauloemilio__/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 ](mailto:pauloemilio.sistemas@gmail.com)
-
 
 
 <!-- 
