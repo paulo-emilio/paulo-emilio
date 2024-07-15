@@ -2,11 +2,15 @@
 
 ## Sobre mim
 
-- 🔭 Buscando oportunidades para ingressar na área de Análise e Ciência de Dados
-- 💹 Pós-graduado em [Ciência de Dados](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science)
-- 🎓 Graduado em Sistemas de Informação
-- 📚 Aluno na escola de programação [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337)
-- 💻 5 anos no mercado de trabalho, sendo 3 deles na área da TI
+🔭 Buscando oportunidades para ingressar na área de Análise e Ciência de Dados
+
+💹 Pós-graduado em [Ciência de Dados](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science)
+
+🎓 Graduado em Sistemas de Informação
+
+📚 Aluno na escola de programação [Alura](https://cursos.alura.com.br/analista-de-dados-paulo-emilio-1690508096886-p631337)
+
+💻 5 anos no mercado de trabalho, sendo 3 deles na área da TI
 
 ## Hard Skills 
 - Análise de Dados
@@ -26,19 +30,39 @@
 - Inovação
 
 
-## Portfólios: 
+##
+ Portfólios: 
 
 - 🌐 Cursos: [VitrineDev Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
 - 📄 Currículo: [Google Drive](https://drive.google.com/file/d/1euJtzX6BuXnvAummmRNvwzNikdGsWCDe/view?usp=sharing)
 
 
-## Guia de Projetos
-- 📊 Análise de dados com Power BI: [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
-- 💹 Machine Learning: [House-Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning)
-- 🎲 Análise de dados com SQL: [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
-- 📈 Excel e Google Sheets: [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
-- 📂 Projetos Acadêmicos Diversificados: [Projetos-Diversificados](https://github.com/paulo-emilio/Projetos-Academicos-Diversificados)
- 
+ ## Guia de Projetos
+
+- 📊 **Análise de dados com Power BI:**
+
+  [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
+    - **People Analytics:** análise de movimentações e desligamentos
+    - **Super Pets:** análise das vendas de uma loja 
+    - **Clube do Livro:** análise de assinaturas no site
+    - **E-commerce:** compras feitas em e-commerces no Brasil
+    - **DataMinds:** análise das vendas
+
+- 🎲 **Análise de dados com SQL:**
+
+  [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
+    - **Vendas de notebooks:** análise de fatores que influenciam os preços
+
+- 📈 **Excel e Google Sheets:**
+
+  [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
+    - **Controle de Rotas:** análise dos dados de logística
+
+- 💹 **Análise de Dados com Python:**
+  
+  - [House-Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning): análise exploratória e regressão linear para prever preços de imóveis
+  - [Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches): análise de dados de partidas de Xadrez
+
 
 ## Entre em contato comigo 💻
 
@@ -50,7 +74,12 @@
 
 
 <!-- 
+
+- 📂 **Projetos Acadêmicos Diversificados:**
+  - [Projetos-Diversificados](https://github.com/paulo-emilio/Projetos-Academicos-Diversificados)
+
 ![paulo-emilio's Stats](https://github-readme-stats.vercel.app/api?username=paulo-emilio&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ![paulo-emilio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulo-emilio&theme=chartreuse-dark&hide_border=true)
 ![paulo-emilio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-emilio&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+
 -->
