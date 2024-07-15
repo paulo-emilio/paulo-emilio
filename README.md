@@ -8,6 +8,8 @@
 - 📚 Aluno na escola de programação [Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
 - 💻 5 anos no mercado de trabalho, sendo 3 deles na área da TI
 
+&nbsp;
+
 ## Hard Skills 
 - Análise de Dados
 - Coleta e Tratamento de Dados
@@ -25,12 +27,15 @@
 - Trabalho em equipe
 - Inovação
 
+&nbsp;
 
 ## Portfólios
 
 - 🌐 Cursos: *[VitrineDev Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)*
 - 📄 Currículo: *[Google Drive](https://drive.google.com/file/d/1euJtzX6BuXnvAummmRNvwzNikdGsWCDe/view?usp=sharing)*
+- 🔗 LinkedIn: *[paulo-emilio](https://www.linkedin.com/in/paulo-emilio/)*
 
+&nbsp;
 
 ## Projetos de Análise de Dados
 
@@ -49,17 +54,18 @@
 
 &nbsp;
 
-### 📈 [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
+### 💹 [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
 
   - *[Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel)* análise dos dados de logística
 
 &nbsp;
 
-### 💹 [Python](#)
+### 🐍 [Python](#)
 
   - *[House Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning)* análise exploratória e regressão linear para prever preços de imóveis
   - *[Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches)* análise de dados de partidas de Xadrez
 
+&nbsp;
 
 ## Entre em contato comigo 💻
 
