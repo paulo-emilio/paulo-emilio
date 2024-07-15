@@ -51,14 +51,14 @@
 
 ### 📈 [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
 
-  - *[Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects)* análise dos dados de logística.
+  - *[Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects)* análise dos dados de logística
 
 &nbsp;
 
-### 💹 [Python]()
+### 💹 [Python](#)
 
-  - *[House Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning)* análise exploratória e regressão linear para prever preços de imóveis.
-  - *[Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches)* análise de dados de partidas de Xadrez.
+  - *[House Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning)* análise exploratória e regressão linear para prever preços de imóveis
+  - *[Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches)* análise de dados de partidas de Xadrez
 
 
 ## Entre em contato comigo 💻
