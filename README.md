@@ -30,38 +30,41 @@
 - Inovação
 
 
-##
- Portfólios: 
+## Portfólios: 
 
-- 🌐 Cursos: [VitrineDev Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
-- 📄 Currículo: [Google Drive](https://drive.google.com/file/d/1euJtzX6BuXnvAummmRNvwzNikdGsWCDe/view?usp=sharing)
+🌐 Cursos: [VitrineDev Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
+
+📄 Currículo: [Google Drive](https://drive.google.com/file/d/1euJtzX6BuXnvAummmRNvwzNikdGsWCDe/view?usp=sharing)
 
 
- ## Guia de Projetos
+## Guia de Projetos
 
-- 📊 **Análise de dados com Power BI:**
+### 📊 Análise de dados com Power BI:
 
-  [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
-    - **People Analytics:** análise de movimentações e desligamentos
-    - **Super Pets:** análise das vendas de uma loja 
-    - **Clube do Livro:** análise de assinaturas no site
-    - **E-commerce:** compras feitas em e-commerces no Brasil
-    - **DataMinds:** análise das vendas
-
-- 🎲 **Análise de dados com SQL:**
-
-  [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
-    - **Vendas de notebooks:** análise de fatores que influenciam os preços
-
-- 📈 **Excel e Google Sheets:**
-
-  [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
-    - **Controle de Rotas:** análise dos dados de logística
-
-- 💹 **Análise de Dados com Python:**
+- [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
   
-  - [House-Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning): análise exploratória e regressão linear para prever preços de imóveis
-  - [Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches): análise de dados de partidas de Xadrez
+  - **People Analytics:** Análise de movimentações e desligamentos.
+  - **Super Pets:** Análise das vendas de uma loja.
+  - **Clube do Livro:** Análise de assinaturas no site.
+  - **E-commerce:** Análise de compras feitas em e-commerces no Brasil.
+  - **DataMinds:** Análise das vendas.
+
+### 🎲 Análise de dados com SQL:
+
+- [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
+
+  - **Vendas de notebooks:** Análise de fatores que influenciam os preços.
+
+### 📈 Excel e Google Sheets:
+
+- [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
+
+  - **Controle de Rotas:** Análise dos dados de logística.
+
+### 💹 Análise de Dados com Python:
+
+- [House-Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning): Análise exploratória e regressão linear para prever preços de imóveis.
+- [Lichess-Matches](https://github.com/paulo-emilio/Lichess-Matches): Análise de dados de partidas de Xadrez.
 
 
 ## Entre em contato comigo 💻
