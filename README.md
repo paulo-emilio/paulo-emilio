@@ -62,7 +62,7 @@
 
 ### 🐍 [Python](#)
 
-  - *[House Pricing](https://github.com/paulo-emilio/House-Pricing-machine-learning)* análise exploratória e regressão linear para prever preços de imóveis
+  - *[House Pricing](https://github.com/paulo-emilio/House-Pricing)* análise exploratória e regressão linear para prever preços de imóveis
   - *[Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches)* análise de dados de partidas de Xadrez
 
 &nbsp;
