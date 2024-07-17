@@ -42,8 +42,7 @@
 ### 📊 [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
   - *[People Analytics](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics)*  análise de movimentações e desligamentos
   - *[Super Pets](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets)*  análise das vendas de uma loja
-  - *
-[Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro)*  análise de assinaturas de um site
+  - *[Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro)*  análise de assinaturas de um site
   - *[E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce)*  análise de compras feitas em e-commerces no Brasil
   - *[DataMinds](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Data-Minds)*  análise de vendas
 
