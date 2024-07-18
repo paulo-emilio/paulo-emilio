@@ -54,7 +54,7 @@
 
   - *[Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks)* análise de fatores que influenciam os preços
 
----
+<br>
 
 ### 💹 [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
 
