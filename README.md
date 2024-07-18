@@ -1,5 +1,7 @@
 <h1>Olá! Bem-vindo(a) ao meu repositório! 🧑‍💻</h1>
 
+<br>
+
 ## Sobre mim
 
 - 🔭 Buscando oportunidades para ingressar na área de Análise e Ciência de Dados
