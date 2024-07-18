@@ -12,22 +12,15 @@
 
 <br>
 
-## Hard Skills 
-- Análise de Dados
-- Coleta e Tratamento de Dados
-- Estatística
-- Clusterização
-- Regressão e Predição
-- Machine Learning
-- Deep Learning
-- Python, Excel, Power BI e SQL
-
-## Soft Skills
-- Proatividade
-- Aprendizado rápido
-- Adaptabilidade
-- Trabalho em equipe
-- Inovação
+| **Hard Skills**                              | **Soft Skills**              |
+|----------------------------------------------|------------------------------|
+| Análise, Coleta e Tratamento de Dados        | Resolução de problemas       |
+| Python, SQL                                  | Pensamento crítico           |
+| Power BI, Excel                              | Trabalho em equipe           |
+| Estatística                                  | Proatividade                 |
+| Business Intelligence (BI)                   | Aprendizado rápido           |
+| Machine Learning                             | Adaptabilidade               |
+| Data Storytelling                            | Inovação                     |
 
 <br>
 
