@@ -8,7 +8,7 @@
 - 📚 Aluno na escola de programação [Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
 - 💻 5 anos no mercado de trabalho, sendo 3 deles na área da TI
 
-&nbsp;
+<br>
 
 ## Hard Skills 
 - Análise de Dados
@@ -27,7 +27,7 @@
 - Trabalho em equipe
 - Inovação
 
-&nbsp;
+<br>
 
 ## Portfólios
 
@@ -35,7 +35,7 @@
 - 📄 Currículo: *[Paulo Emílio Oliveira](Curriculo-Paulo-Emilio-Oliveira.pdf)*
 - 🔗 LinkedIn: *[paulo-emilio](https://www.linkedin.com/in/paulo-emilio/)*
 
-&nbsp;
+<br>
 
 ## Projetos de Análise de Dados
 
@@ -46,26 +46,26 @@
   - *[E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce)*  análise de compras feitas em e-commerces no Brasil
   - *[DataMinds](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Data-Minds)*  análise de vendas
 
-&nbsp;
+<br>
 
 ### 🎲 [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
 
   - *[Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks)* análise de fatores que influenciam os preços
 
-&nbsp;
+<br>
 
 ### 💹 [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
 
   - *[Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel)* análise dos dados de logística
 
-&nbsp;
+<br>
 
 ### 🐍 [Python](#)
 
   - *[House Pricing](https://github.com/paulo-emilio/House-Pricing)* análise exploratória e regressão linear para prever preços de imóveis
   - *[Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches)* análise de dados de partidas de Xadrez
 
-&nbsp;
+<br>
 
 ## Entre em contato comigo 💻
 
