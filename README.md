@@ -14,7 +14,7 @@
 
 | **Hard Skills**                              | **Soft Skills**              |
 |----------------------------------------------|------------------------------|
-| Análise, Coleta e Tratamento de Dados        | Resolução de problemas       |
+| Coleta e Tratamento de Dados                 | Resolução de problemas       |
 | Python, SQL                                  | Pensamento crítico           |
 | Power BI, Excel                              | Trabalho em equipe           |
 | Estatística                                  | Proatividade                 |
