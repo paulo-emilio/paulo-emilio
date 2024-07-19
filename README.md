@@ -41,8 +41,7 @@
 | 🟨 Power BI    | [Super Pets](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets) | Vendas do Petshop |
 | 🟨 Power BI    | [Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro) | Assinaturas Mensais |
 | 🟨 Power BI    | [E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) | Compras em E-commerces no Brasil |
-| 🎲 SQL         | [Vendas de notebooks]
-(https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) | Análise Exploratória de Preços de Notebooks |
+| 🎲 SQL         | [Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) | Análise Exploratória de Preços de Notebooks |
 | 💹 Excel       | [Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel) | Dashboard para Controle de Entregas |
 | 🐍 Python      | [Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches) | Análise Exploratória de Partidas de Xadrez |
 | 🐍 Python      | [House Pricing](https://github.com/paulo-emilio/House-Pricing) | Previsão de Preços de Imóveis com Regressão Linear |
