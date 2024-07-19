@@ -26,10 +26,10 @@
 
 ## Portfólios
 
-- 📊 [Portfólio de Projetos](https://github.com/paulo-emilio/Portfolio)
-- 📘 [VitrineDev Alura: Cursos](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
-- 📄 [Currículo](Curriculo-Paulo-Emilio-Oliveira.pdf)
-- 🟦 [LinkedIn: paulo-emilio](https://www.linkedin.com/in/paulo-emilio/)
+#### 📊 [Projetos de Análise de Dados](https://github.com/paulo-emilio/Portfolio)
+#### 📘 [Cursos: Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
+#### 📄 [Currículo](Curriculo-Paulo-Emilio-Oliveira.pdf)
+#### 🟦 [LinkedIn](https://www.linkedin.com/in/paulo-emilio/)
 
 <br>
 
