@@ -26,34 +26,28 @@
 
 ## Portfólios
 
+- 📊 Projetos: *[Portfólio Dados](https://github.com/paulo-emilio/Portfolio)*
 - 🌐 Cursos: *[VitrineDev Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)*
 - 📄 Currículo: *[Paulo Emílio Oliveira](Curriculo-Paulo-Emilio-Oliveira.pdf)*
 - 🔗 LinkedIn: *[paulo-emilio](https://www.linkedin.com/in/paulo-emilio/)*
 
 <br>
 
-## Projetos de Análise de Dados
+## [Projetos de Análise de Dados](https://github.com/paulo-emilio/Portfolio)
 
 ### 📊 [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
   - *[People Analytics](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics)*  análise de movimentações e desligamentos
   - *[Super Pets](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets)*  análise das vendas de uma loja
   - *[Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro)*  análise de assinaturas de um site
   - *[E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce)*  análise de compras feitas em e-commerces no Brasil
-  - *[DataMinds](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Data-Minds)*  análise de vendas
-
-<br>
 
 ### 🎲 [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
 
   - *[Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks)* análise de fatores que influenciam os preços
 
-<br>
-
 ### 💹 [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
 
   - *[Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel)* análise dos dados de logística
-
-<br>
 
 ### 🐍 [Python](#)
 
