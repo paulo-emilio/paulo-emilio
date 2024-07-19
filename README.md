@@ -26,33 +26,25 @@
 
 ## Portfólios
 
-- 📊 Projetos: *[Portfólio Dados](https://github.com/paulo-emilio/Portfolio)*
-- 🌐 Cursos: *[VitrineDev Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)*
-- 📄 Currículo: *[Paulo Emílio Oliveira](Curriculo-Paulo-Emilio-Oliveira.pdf)*
-- 🔗 LinkedIn: *[paulo-emilio](https://www.linkedin.com/in/paulo-emilio/)*
+- 📊 [Portfólio de Projetos](https://github.com/paulo-emilio/Portfolio)
+- 📘 [VitrineDev Alura: Cursos](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
+- 📄 [Currículo](Curriculo-Paulo-Emilio-Oliveira.pdf)
+- 🟦 [LinkedIn: paulo-emilio](https://www.linkedin.com/in/paulo-emilio/)
 
 <br>
 
 ## [Projetos de Análise de Dados](https://github.com/paulo-emilio/Portfolio)
 
-### 📊 [Power-BI-projects](https://github.com/paulo-emilio/Power-BI-projects)
-  - *[People Analytics](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics)*  análise de movimentações e desligamentos
-  - *[Super Pets](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets)*  análise das vendas de uma loja
-  - *[Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro)*  análise de assinaturas de um site
-  - *[E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce)*  análise de compras feitas em e-commerces no Brasil
-
-### 🎲 [SQL-projects](https://github.com/paulo-emilio/SQL-projects)
-
-  - *[Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks)* análise de fatores que influenciam os preços
-
-### 💹 [Excel-Sheets-projects](https://github.com/paulo-emilio/Excel-Sheets-projects)
-
-  - *[Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel)* análise dos dados de logística
-
-### 🐍 [Python](#)
-
-  - *[House Pricing](https://github.com/paulo-emilio/House-Pricing)* análise exploratória e regressão linear para prever preços de imóveis
-  - *[Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches)* análise de dados de partidas de Xadrez
+| **Ferramenta** | **Projeto** | **Análise** |
+|----------------|-------------|---------------|
+| 🟨 Power BI    | [People Analytics](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics) | Movimentações e Desligamentos (RH) |
+| 🟨 Power BI    | [Super Pets](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets) | Vendas do Petshop |
+| 🟨 Power BI    | [Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro) | Assinaturas Mensais |
+| 🟨 Power BI    | [E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) | Compras em E-commerces no Brasil |
+| 🎲 SQL         | [Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) | Análise Exploratória de Preços de Notebooks |
+| 💹 Excel       | [Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel) | Dashboard para Controle de Entregas |
+| 🐍 Python      | [Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches) | Análise Exploratória de Partidas de Xadrez |
+| 🐍 Python      | [House Pricing](https://github.com/paulo-emilio/House-Pricing) | Previsão de Preços de Imóveis com Regressão Linear |
 
 <br>
 
@@ -62,6 +54,10 @@
 [<img alt="Instagram" src="https://img.shields.io/badge/pauloemilio%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/pauloemilio__/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 ](mailto:pauloemilio.sistemas@gmail.com)
+
+
+
+
 
 
 <!-- 
