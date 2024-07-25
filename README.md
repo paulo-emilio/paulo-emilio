@@ -40,7 +40,8 @@
 | 🟨 Power BI    | [People Analytics](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics) | Movimentações e Desligamentos (RH) |
 | 🟨 Power BI    | [Super Pets](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets) | Vendas do Petshop |
 | 🟨 Power BI    | [Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro) | Assinaturas Mensais |
-| 🟨 Power BI    | [E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) | Compras em E-commerces no Brasil |
+| 🟨 Power BI    |
+ [E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) | Compras em E-commerces no Brasil |
 | 🎲 SQL         | [Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) | Análise Exploratória de Preços de Notebooks |
 | 💹 Excel       | [Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel) | Dashboard para Controle de Entregas |
 | 🐍 Python      | [Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches) | Análise Exploratória de Partidas de Xadrez |
@@ -51,7 +52,7 @@
 ## Entre em contato comigo 💻
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/paulo-emilio/)
-[<img alt="Instagram" src="https://img.shields.io/badge/pauloemilio%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/pauloemilio__/)
+[<img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/pauloemilio__/)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:pauloemilio.ds@gmail.com)
 
 
