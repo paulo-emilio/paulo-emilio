@@ -16,6 +16,7 @@
 |----------------------------------------------|------------------------------|
 | Coleta e Tratamento de Dados                 | Resolução de problemas       |
 | Python, SQL                                  | Pensamento crítico           |
+
 | Power BI, Excel                              | Trabalho em equipe           |
 | Estatística                                  | Proatividade                 |
 | Business Intelligence                        | Aprendizado rápido           |
@@ -40,7 +41,7 @@
 | 🟨 Power BI    | [People Analytics](https://github.com/paulo-emilio/Power-BI-projects/tree/main/People-Analytics) | Movimentações e Desligamentos (RH) |
 | 🟨 Power BI    | [Super Pets](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Super-Pets) | Vendas do Petshop |
 | 🟨 Power BI    | [Clube do Livro](https://github.com/paulo-emilio/Power-BI-projects/tree/main/Clube-do-Livro) | Assinaturas Mensais |
-| 🟨 Power BI    |
+| 🟨 Power BI    | [E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) | Compras em e-commerces no Brasil |
  [E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) | Compras em E-commerces no Brasil |
 | 🎲 SQL         | [Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) | Análise Exploratória de Preços de Notebooks |
 | 💹 Excel       | [Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel) | Dashboard para Controle de Entregas |
