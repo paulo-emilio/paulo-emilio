@@ -26,7 +26,7 @@
 
 ## Portfólios
 
-#### 📊 [Portfólio de Projetos](https://github.com/paulo-emilio/Portfolio)
+#### 📊 [Portfólio de Projetos](https://paulo-emilio.github.io/)
 #### 📘 [Cursos: Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
 #### 📄 [Currículo](Curriculo-Paulo-Emilio-Oliveira.pdf)
 #### 🟦 [LinkedIn](https://www.linkedin.com/in/paulo-emilio/)
@@ -43,7 +43,8 @@
 | 🟨 Power BI    | [E-commerce](https://github.com/paulo-emilio/Power-BI-projects/tree/main/E-commerce) | Compras em e-commerces no Brasil |
 | 🎲 SQL         | [Vendas de notebooks](https://github.com/paulo-emilio/SQL-projects/tree/main/Vendas-de-notebooks) | Análise Exploratória de Preços de Notebooks |
 | 💹 Excel       | [Controle de Rotas](https://github.com/paulo-emilio/Excel-Sheets-projects/tree/main/Controle_de_Rotas-Excel) | Dashboard para Controle de Entregas |
-| 🐍 Python      | [Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches) | Análise Exploratória de Partidas de Xadrez |
+| 🐍 Python      |
+ [Lichess Matches](https://github.com/paulo-emilio/Lichess-Matches) | Análise Exploratória de Partidas de Xadrez |
 | 🐍 Python      | [House Pricing](https://github.com/paulo-emilio/House-Pricing) | Previsão de Preços de Imóveis com Regressão Linear |
 
 <br>
