@@ -4,11 +4,11 @@
 
 ## Sobre mim
 
-- 🔭 Buscando oportunidades para ingressar na área de Análise e Ciência de Dados
+- 🔭 Analista de BI
 - 🧮 Pós-graduado em [Ciência de Dados](https://github.com/paulo-emilio/Pos-Graduacao-Data-Science)
 - 🎓 Graduado em Sistemas de Informação
 - 📚 Aluno na escola de programação [Alura](https://cursos.alura.com.br/vitrinedev/paulo-emilio)
-- 💻 5 anos no mercado de trabalho, sendo 3 deles na área da TI
+- 💻 6 anos no mercado de trabalho, sendo 4 deles na área da TI
 
 <br>
 
